@@ -1,0 +1,235 @@
+body{
+    margin-left:90px;
+    margin-top: 80px;
+    overflow-x:hidden;
+}
+h1{
+    top:50px;
+    font-size: 50px;
+}
+h2{
+   color: gray;
+}
+#login{
+    position: absolute;
+    border-style:hidden;
+    text-align: right;
+    font-size: 16px;
+    right: 800px;
+    top: 100px;
+    background-color: white;
+    position:absolute;
+
+}
+#login:hover{
+    color:red;
+}
+#signup{
+    width:100px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    margin-left:300px;
+    font-size: 17px;
+    margin-top:0px; 
+    border:none;
+    position: absolute;
+    top: 94px;
+}
+.bar{
+    font-size:18px;
+    padding: 18px 250px 20px 23px;
+
+}
+.findfood{
+    background-color: rgb(228, 136, 15);
+    position: absolute;
+    height: 64px;
+    width: 140px;
+    color: white;
+    top:329px;
+    left: 585px;
+    }
+h4{
+    color: gray;
+}
+h5{
+    color: gray;
+    font-size: 15px;
+}
+#lunch{
+    position: absolute;
+    top: 0px;
+    margin-left: 680px;
+    height: 300px;
+}
+.image{
+    position: absolute;
+    top:520px;
+    left:0px;
+}
+.img1{
+    position: absolute;
+    left: 600px;
+    top: 940px;
+}
+.img2{
+    position: absolute;
+    left: 950px;
+    top: 1020px;
+}
+.restaurent{
+    color: rgb(19, 24, 46);
+    top:1040px;
+    position: absolute;
+    font-size: 40px;
+}
+.order{
+    color: gray;
+    position: absolute;
+    font-size: 20px;
+    top: 1170px;
+}
+#googleplay{
+    position: absolute;
+    top:1300px;
+}
+#Appstore{
+    position: absolute;
+    top: 1300px;
+    left: 290px;    
+}
+#black{
+    position: absolute;
+    top: 1510px;
+    left: 0px;
+    background-color: black;
+    height: 3400px;
+    width: 1350px;  
+}
+.company{
+    position: absolute;
+    color: darkgrey;
+    margin-left: 70px;
+    margin-top:80px;
+}
+.p1{
+    position: absolute; 
+    color: white;
+    margin-left: 70px;
+    margin-top: 120px;
+    font-size: 19px;
+    line-height: 40px;
+}
+.contact{
+    position: absolute;
+    color: darkgrey;
+    margin-left: 400px;
+    margin-top:80px;
+}
+.p2{
+    position: absolute; 
+    color: white;
+    margin-left: 400px;
+    margin-top: 120px;
+    font-size: 19px;
+    line-height: 40px;
+}
+.legal{
+    position: absolute;
+    color: darkgrey;
+    margin-left: 780px;
+    margin-top:80px;
+}
+.p3{
+    position: absolute; 
+    color: white;
+    margin-left: 780px;
+    margin-top: 120px;
+    font-size: 19px;
+    line-height: 40px;
+}
+.img3{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 1075px;
+}
+.img4{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 1185px;
+}
+.deliver{
+    position: absolute;
+    color: darkgrey;
+    margin-left: 70px;
+    margin-top:490px;
+}
+.p4{
+    position: absolute; 
+    color: white;
+    margin-left: 70px;
+    margin-top: 540px;
+    font-size: 19px;
+    line-height: 40px;
+} 
+.p5{
+    position: absolute; 
+    color: white;
+    margin-left: 400px;
+    margin-top: 540px;
+    font-size: 19px;
+    line-height: 40px;
+}
+.p6{
+    position: absolute; 
+    color: white;
+    margin-left: 780px;
+    margin-top: 540px;
+    font-size: 19px;
+    line-height: 40px;
+}  
+.p7{
+    position: absolute; 
+    color: white;
+    margin-left: 1100px;
+    margin-top: 540px;
+    font-size: 19px;
+    line-height: 40px;
+}
+.img5{
+    position: absolute;
+    margin-top: 4320px;
+    margin-left: -20px;
+}
+.year{
+    position: absolute;
+    margin-top: 4330px;
+    margin-left: 490px;
+    color: white;
+    font-size: 20px;
+}
+.fb{
+    position: absolute;
+    margin-top: 4330px;
+    margin-left: 1030px;
+}
+.pin{
+    position: absolute;
+    margin-top: 4330px;
+    margin-left: 1085px;
+}
+.insta{
+    position: absolute;
+    margin-top: 4330px;
+    margin-left: 1138px;
+}
+.twitter{
+    position: absolute;
+    margin-top: 4330px;
+    margin-left: 1190px;
+}
+
+
+
+   
